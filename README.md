@@ -5,9 +5,10 @@
 ------------THE GAME RULES ----------------
 
 1. 2 Players: Yellow and Red.
-2. Yellow has health of 1, Red has health of 2
+2. Yellow has health of 1, Red has health of 2.
 3. Yellow fires bullets to cause damage to Red; Red dashes into Yellow to cause damage.
-4. The game restars automatically 5 seconds after each game. Want to restart during the game? Press "R"
+4. Red moves faster than Yellow.
+5. The game restars automatically 5 seconds after each game. Want to restart during the game? Press "R"
 
 -------------------------------------------
 
@@ -22,4 +23,5 @@ YELLOW:
  
  -------------------------------------------
  
+ To start, run "start.py"
  
